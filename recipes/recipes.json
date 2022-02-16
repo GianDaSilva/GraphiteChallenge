@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Peanut butter and jelly sandwich",
+    "image": "https://www.wholesomeyum.com/wp-content/uploads/2021/03/wholesomeyum-keto-peanut-butter-and-jelly-sandwich-3.jpg",
+    "ingredients": "Peanut butter, jelly, bread",
+  },
+  {
+    "name":"Buckeyes",
+    "image": "https://ahumados.shop/wp-content/uploads/2021/04/Buckeyes_EXPS_FT19_16592_F_1015_1-1-768x768.jpg",
+    "ingredients": "Chocolate, peanut butter, sugar",
+      },
+  {
+    "name":"Hawaiian pizza",
+    "image": "https://cdn.recetas360.com/wp-content/uploads/2021/06/como-hacer-la-pizza-hawaiana-receta.jpg",
+    "ingredients": "Cheese, pizza dough, tomato souce, pineapple, bacon",
+  },
+  {
+    "name":"Hot chocolate",
+    "image": "https://assets.bonappetit.com/photos/57accdd1f1c801a1038bc794/1:1/w_960,c_limit/Hot-Chocolate-2-of-5.jpg",
+    "ingredients": "Milk, chocolate, sugar",
+  },
+  {
+    "name":"Grilled cheese sandwich",
+    "image": "https://natashaskitchen.com/wp-content/uploads/2021/08/Grilled-Cheese-Sandwich-3-1024x1536.jpg",
+    "ingredients": "Bread, cheese",
+  },
+];
